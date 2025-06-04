@@ -14,6 +14,7 @@ This project demonstrates a modern data engineering pipeline designed using **Mi
 ## 📁 Data Pipeline Stages
 
 ### 1. **Data Source**
+- Source: [NYC Taxi & Limousine Commission (TLC) Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 - Source: NYC Taxi & Limousine Commission (TLC)
 - Data Format: Parquet
 

@@ -17,6 +17,7 @@ This project demonstrates a modern data engineering pipeline designed using **Mi
 - Source: [NYC Taxi & Limousine Commission (TLC) Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
 - Source: NYC Taxi & Limousine Commission (TLC)
 - Data Format: Parquet
+- Download January to May all the Yellow_Taxi_Trip_Records.parquet(2024) files and dowload Taxi_Zone_Lookup_Table(CSV) file.
 
 ### 2. **Landing Stage**
 - Raw data stored in Parquet format.

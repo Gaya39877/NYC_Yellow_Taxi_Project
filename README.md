@@ -7,7 +7,7 @@ This project demonstrates a modern data engineering pipeline designed using **Mi
 
 ## 📊 Project Architecture
 
-![Project Architecture]([BingAPI-Page-3.drawio.png](https://github.com/Gaya39877/NYC_Yellow_Taxi_Project/blob/main/Assests/NYC_Yellow_Taxi_Architecture.png))
+![Project Architecture](https://github.com/Gaya39877/NYC_Yellow_Taxi_Project/blob/main/Assests/NYC_Yellow_Taxi_Architecture.png)
 
 ---
 

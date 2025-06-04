@@ -1,5 +1,5 @@
 
-# NYC Yellow Taxi Data Pipeline 🚖
+# NYC Yellow Taxi Data Project 🚖
 
 This project demonstrates a modern data engineering pipeline designed using **Microsoft Fabric** to process and analyze NYC Yellow Taxi trip data. The pipeline includes data ingestion, transformation, modeling, and reporting using end-to-end Fabric services.
 
